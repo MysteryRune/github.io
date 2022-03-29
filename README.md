@@ -3,7 +3,7 @@
 
 # Study in University of Infomation Technology
 # Major: Computer science.
-# Current acomadation: 131/37, Thanh Thái street, Ward 14, District 10, HCMC
+# Current acomadation: 131/37, Thanh Thai street, Ward 14, District 10, HCMC
 # Email & Phone: 20521410@gm.uit.edu.vn - 0931222466
 
 #About me:
